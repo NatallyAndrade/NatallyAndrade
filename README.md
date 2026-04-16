@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="URL_DA_IMAGEM_PARA_MODO_CLARO">
   
   <!-- Imagem padrão (caso o navegador não suporte a tag) -->
-  <img alt="Banner do meu perfil" src="https://imgflip.com/gif/apds79">
+  <img alt="Banner do meu perfil" src="https://i.imgflip.com/apds79.gif">
 </picture>
 
 
