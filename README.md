@@ -4,8 +4,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="14675305903973903588" data-share-method="host" data-aspect-ratio="1.16667" data-width="100%"><a href="https://tenor.com/view/reshiram-pokemon-reshiram-gif-14675305903973903588">Reshiram Pokemon Reshiram Sticker</a>from <a href="https://tenor.com/search/reshiram-stickers">Reshiram Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
 
 
