@@ -1,16 +1,8 @@
 <h2>🛸 Malware </h2>
 
 
-<picture>
-  <!-- Imagem que aparece no Modo Escuro (Dark Mode) -->
-  <source media="(prefers-color-scheme: dark)" srcset="URL_DA_IMAGEM_PARA_MODO_ESCURO">
-  
-  <!-- Imagem que aparece no Modo Claro (Light Mode) -->
-  <source media="(prefers-color-scheme: light)" srcset="URL_DA_IMAGEM_PARA_MODO_CLARO">
-  
-  <!-- Imagem padrão (caso o navegador não suporte a tag) -->
-  <img alt="Banner do meu perfil" src="https://i.imgflip.com/apds79.gif">
-</picture>
+  <img align="left" height="150" src="https://i.imgflip.com/apds79.gif"/>
+
 
 
 
