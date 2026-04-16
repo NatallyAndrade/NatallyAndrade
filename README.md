@@ -7,6 +7,12 @@
 <img align="right" height="150" src="https://i2.imgflip.com/apdoyi.gif"  />
 
 
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+
+### Seu Título Aqui
+Este bloco agora tem um fundo colorido.
+
+</div>
 
 
 ###
