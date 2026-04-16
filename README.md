@@ -1,9 +1,6 @@
 <h2>🛸 Malware </h2>
 
 
-  <img align="left" height="150" src="https://i.imgflip.com/apds79.gif"/>
-
-
 
 
 <img align="right" height="150" src="https://i2.imgflip.com/apdoyi.gif"  />
