@@ -26,8 +26,7 @@
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
 
-
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://giffiles.alphacoders.com/222/222334.gif"/>
 
 <br clear="right"/>
 
