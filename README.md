@@ -83,10 +83,9 @@
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
+| ◈ | DS | 🔄 In Progress |
+| ◈ | PW 3 | ✅ Complete |
+| ◈ | PW 4 | ✅ Complete |
 
 ---
 
