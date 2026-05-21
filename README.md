@@ -23,7 +23,7 @@
 ---
 
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+
 
 
 <img align="right" width="240px" src="https://giffiles.alphacoders.com/222/222334.gif"/>
@@ -31,11 +31,6 @@
 <br clear="right"/>
 
 
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
 
 ---
 
@@ -76,23 +71,6 @@
 
 </div>
 
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | DS | 🔄 In Progress |
-| ◈ | PW 3 | ✅ Complete |
-| ◈ | PW 4 | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
-
-<div align="center">
-
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
 
 </div>
 
@@ -100,6 +78,6 @@
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+
 
 </div>
